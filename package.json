@@ -1,0 +1,15 @@
+{
+  "name": "indieapp",
+  "version": "1.0.0",
+  "description": "Completely Indiependent App. Should run when Laptop is Shutdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
